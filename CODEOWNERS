@@ -1,0 +1,4 @@
+# CODEOWNERS
+* @triplelift-internal/team-cloud-engineering
+.github/** @triplelift-internal/team-cloud-engineering-deployers
+
